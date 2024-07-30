@@ -16,7 +16,6 @@ img {
 
 .container {
   display: flex;
-  border: 2px solid red;
   justify-content: center;
   gap: 52px;
 }
@@ -24,7 +23,6 @@ img {
 .container div {
   width: 200px;
   flex-wrap: wrap;
-  border: 2px solid red;
   justify-content: center;
   display: flex;
 }
